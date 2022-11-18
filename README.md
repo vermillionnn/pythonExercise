@@ -1,2 +1,2 @@
 # pythonExercise
-my python exercise
+list my python exercise
